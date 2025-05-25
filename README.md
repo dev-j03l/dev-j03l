@@ -1,7 +1,7 @@
 Hi 👋 My name is Joel Mathew Jojan
 ==================================
 
-I’m currently studying Computer Science at Trinity College Dublin, and I’ve always been driven by a passion for creating new things. I love combining technical skills with creative design to bring fresh ideas to life. Right now, I’m still figuring out where I want to take my degree, but I’m particularly interested in AI/ML, robotics, and web/app development. I’m excited to explore these areas more and see where they might take me.
+I’m currently studying Computer Science at Trinity College Dublin, and I’ve always been driven by a passion for creating new things. I love combining technical skills with creative design to bring fresh ideas to life. Right now, I’m still figuring out where I want to take my degree, but I’m particularly interested in AI/ML, robotics, cybersecurity, and web/app development. I’m excited to explore these areas more and see where they might take me.
 
 * 🌍  I'm based in Dublin, Ireland
 * ✉️  You can contact me at [joelmathewjojan@gmail.com](mailto:joelmathewjojan@gmail.com)
