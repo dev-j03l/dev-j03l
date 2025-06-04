@@ -6,8 +6,8 @@ I’m currently studying Computer Science at Trinity College Dublin, and I’ve 
 * 🌍  I'm based in Dublin, Ireland
 * ✉️  You can contact me at [joelmathewjojan@gmail.com](mailto:joelmathewjojan@gmail.com)
 * 🚀  I'm currently working on [Miaonance Finance App](http://miaonance.com)
-* 🧠  I'm learning AI/ML through Coursera by Andrew Ng
-* 🤝  I'm open to collaborating on Web Development, Student Projects, Startups
+* 🧠  I'm learning Cybersecurity through Google on Coursera
+* 🤝  I'm open to collaborating on Web Development, Student Projects, Startups, Cybersecurity
 * ⚡  I am also a very passionate volleyball player
 
 ### Skills
